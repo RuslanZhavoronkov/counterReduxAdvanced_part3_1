@@ -1,0 +1,23 @@
+.button {
+    width: 100px;
+    height: 50px;
+    margin-top: 25px;
+    margin-right: auto;
+    margin-left: 25px;
+    border-color:  rgb(87, 243, 235);
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: 800;
+    
+}
+
+
+
+.active {
+    background-color: rgb(87, 243, 235);
+}
+
+.disable {
+    background-color: rgba(250, 235, 215, 0.664);
+   }
+

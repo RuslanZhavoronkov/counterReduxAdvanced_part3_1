@@ -1,0 +1,42 @@
+.inputArea {
+    height: 320px;
+    width: 450px;
+    border: 4px solid  rgb(87, 243, 235);
+    border-radius: 10px;
+    margin: 100px auto;
+    background-color:black
+}
+
+
+
+.buttonArea {
+    border: 2px solid;
+    border-color:  rgb(87, 243, 235);
+    border-radius: 10px;
+    width: 400px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black; 
+    text-align: center;
+}
+
+
+.inputBox {
+    height: 150px;
+    border: 2px solid rgb(87, 243, 235);
+    border-radius: 10px;
+    width: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:black;
+    text-align: center;
+}
+
+.input {
+    margin-top: 25px;
+    margin-left: 10px;
+    
+}

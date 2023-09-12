@@ -1,0 +1,23 @@
+.textValue {
+    color: rgb(87, 243, 235);
+    font-size: 22px;
+    font-weight: 500;
+
+}
+
+.input {
+    border-color: rgb(87, 243, 235);
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+
+.warning {
+    background-color: rgb(240, 72, 72);
+    border-color: rgb(240, 72, 72)
+}
+
+.inputContainer {
+
+    padding-right: 5px;
+}
